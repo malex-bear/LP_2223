@@ -1,3 +1,3 @@
 # Logic_for_Programming_Project
 
-University Project using Prolog.
+Project made in Logic for Programming course @ IST.
